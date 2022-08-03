@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.new-post-form{
+  display: flex;
+  flex-direction: column;
+}
+
+.post_header{
+  display: flex;
+}
